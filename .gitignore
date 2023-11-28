@@ -1,0 +1,5 @@
+*.pdf
+*.csv
+*.log
+payslips/
+dataset/
